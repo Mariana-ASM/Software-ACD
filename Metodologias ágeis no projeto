@@ -1,0 +1,55 @@
+1. Objetivo do Projeto
+Desenvolver um aplicativo móvel que ajude ONGs ao redor do Brasil a cuidar dos animais recolhidas na rua e o
+recebimento de doações de patrocinadores, e o cadastramento de veterinários para auxiliar os usuários através de 
+teleconsultas. A plataforma tem o intuito de otimizar e direcionar os uduários de forma intuitia e funcional.
+
+2. Stakeholders
+- Usuários finais (pessoas que usam o aplicativo)
+- Equipe de desenvolvimento (programadores, designers)
+- Product Owner (responsável pela visão do produto)
+- Scrum Master (facilitador do processo ágil)
+
+3. Metodologia
+- Usaremos Scrum, que inclui sprints, reuniões diárias e revisões.
+
+4. Planejamento do Projeto
+
+4.1. Backlog do Produto
+- Funcionalidade de adicionar animais de rua
+- Funcionalidade de adicionar grupos de ONGS
+- Funcionalidade de adicionar veterinários
+- Funcionalidade de adicionar tutores 
+- Funcionalidade de adicionar patrocinadores
+- Funcionalidade de editar e excluir doações (remédios, ração, brinquedos)
+- Sistema de notificações
+- Interface de usuário intuitiva
+- Funcionalidade de categorização de tipos de animais (gatos, cachorros)
+- Funcionalidade de realização de teleconsultas
+- Funcionalidade de envio de pix para a ONG 
+- Modo escuro
+
+4.2. Sprints
+Sprint 1 (2 semanas): Criar funcionalidades básicas (adicionar, editar e excluir tarefas).
+Sprint 2 (2 semanas): Implementar sistema de notificações e interface de usuário.
+Sprint 3 (2 semanas): Desenvolver categorização de tarefas e modo escuro.
+Sprint 4 (2 semanas): Testes, feedback dos usuários e ajustes.
+
+5. Reuniões
+- Reunião de Planejamento: No início de cada sprint, definindo as histórias de usuário a serem trabalhadas.
+- Reuniões Diárias: Curtas reuniões (15 min) para atualização do status e identificação de impedimentos.
+- Revisão do Sprint: Ao final de cada sprint, apresentar o que foi desenvolvido e coletar feedback.
+- Retrospectiva do Sprint: Analisar o que funcionou bem, o que pode ser melhorado e ações para o próximo sprint.
+
+6. Ferramentas
+- Gerenciamento de Projeto: Trello ou Jira para gerenciar o backlog e as tarefas.
+- Comunicação: Slack para comunicação diária.
+- Controle de Versão: GitHub para versionamento do código.
+
+7. Métricas de Sucesso
+- Número de tarefas concluídas em cada sprint
+- Satisfação do usuário (feedback qualitativo)
+- Taxa de uso do aplicativo após o lançamento
+
+8. Considerações Finais
+Esse projeto pode ser adaptado e expandido conforme as necessidades e o feedback dos usuários.
+A flexibilidade das metodologias ágeis permite que a equipe responda rapidamente a mudanças e melhore continuamente o produto.
